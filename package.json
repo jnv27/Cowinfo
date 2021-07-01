@@ -1,0 +1,24 @@
+{
+  "author": "Aniket Pathak",
+  "name": "cowinfo",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "keywords": [],
+  "license": "ISC",
+  "description": "Covid -19 vaccine slot booking app",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "inquirer": "^8.1.1",
+    "node-notifier": "^10.0.0",
+    "tty-table": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "cowin":"./bin/index.js"
+  }
+}
