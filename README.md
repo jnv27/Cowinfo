@@ -3,5 +3,5 @@ The api in scope is for country India where vaccination drive is going on and av
 
 ## Features
 
--> Ability to get vaccine availabilty data of a particular district in a particular state.
--> Ability to get vaccine data by applying age group filters eg.(18-45 or 45+).
+##### Ability to get vaccine availabilty data of a particular district in a particular state.
+##### Ability to get vaccine data by applying age group filters eg.(18-45 or 45+).
